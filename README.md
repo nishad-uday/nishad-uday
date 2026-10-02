@@ -1,8 +1,6 @@
 
 <div align="center">
-
-<img src="./neon-banner.png" alt="Uday Kumar - Full Stack Developer, AI/ML and Data Analytics Enthusiast" width="100%"/>
-
+  <img src="./neon-banner.png" alt="Uday Kumar - Full Stack Developer | AI/ML & Data Analytics Enthusiast" width="100%">
 </div>
 
 
