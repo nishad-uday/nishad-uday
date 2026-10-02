@@ -6,7 +6,6 @@
 
 <div align="center">
 
-<img src="./neon-banner.png" alt="Uday Kumar - Developer Banner" width="100%"/>
 
 # 👋 Hi, I'm Uday Kumar
 
